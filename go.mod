@@ -10,5 +10,5 @@ require (
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
-	golang.org/x/net v0.0.0-20190921015927-1a5e07d1ff72
+	golang.org/x/net v0.7.0
 )
